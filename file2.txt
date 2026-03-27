@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Creamos de nuevo este archivo
+=======
+Esto es contenido de la rama 2
+>>>>>>> Stashed changes
